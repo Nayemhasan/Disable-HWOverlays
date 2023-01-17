@@ -1,0 +1,6 @@
+id=disable-HWOverlay
+name=Disable HWOverlay
+version=v01
+versionCode=1
+author=watermelon
+description=Force Disable HWOverlay
