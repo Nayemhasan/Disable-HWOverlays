@@ -1,5 +1,5 @@
 # Disable_HWOverlay🍉
-This module Nukes*/Disable Disable HWOverlay for better performance and smoothness to system upon boot.
+This module Nukes*/Disable Disable HWOverlay for better smoothness & fix UI stuttering to system upon boot.
 
 ## Why this module 
 It disables unnecessary overlays that might consume your CPU clock cycles and it does it on boot.
