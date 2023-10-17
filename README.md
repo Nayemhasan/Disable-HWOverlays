@@ -1,4 +1,8 @@
 # Disable_HWOverlay🍉
+<p align="left">
+  <img src="https://img.shields.io/github/downloads/Nayemhasan/Disable-HWOverlays/total?style=social">
+</p>
+
 This module Nukes*/Disable Disable HWOverlay for better smoothness & fix UI stuttering to system upon boot.
 
 ## Why this module 
